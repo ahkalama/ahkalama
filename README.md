@@ -1,10 +1,6 @@
 
 ![Yeni Proje](https://github.com/user-attachments/assets/abf75f93-c0e0-4a2f-831f-5aed6221b862)
-![Minecraft](https://media.tenor.com/tmWs_IT3d_wAAAAi/minecraft-transparent.gif)
-
-![Yeni Proje](https://github.com/user-attachments/assets/6cdfe43c-cbe3-4707-be45-ac5116a5d462)
-
-*Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip bir Oyun Geliştiricisiyim. 5 senede evde yaptığım projeler; Unity' de oyun mekaniği, fizik ve render teknikleri konusunda, 42 de geliştirdiğim projeler ise problem çözme becerisi, algoritma geliştirme ve takım olarak proje geliştirme gibi çeşitli yönlerde beni geliştirdi, şu anda ise 42 Kocaeli 'de ana eğitim öğrencisiyim yaptığım projelere repo'larımdan ulaşabilirsiniz.*
+![Minecraft](https://media.tenor.com/tmWs_IT3d_wAAAAi/minecraft-transparent.gif) *Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip bir Oyun Geliştiricisiyim. 5 senede evde yaptığım projeler; Unity' de oyun mekaniği, fizik ve render teknikleri konusunda, 42 de geliştirdiğim projeler ise problem çözme becerisi, algoritma geliştirme ve takım olarak proje geliştirme gibi çeşitli yönlerde beni geliştirdi, şu anda ise 42 Kocaeli 'de ana eğitim öğrencisiyim yaptığım projelere repo'larımdan ulaşabilirsiniz.*
 
 
 ## Yetenekler
@@ -23,7 +19,7 @@
 ![projelerim](https://github.com/user-attachments/assets/b809207f-3b8a-4da7-ba09-a67e734e5e8c)
 
 *Bütün projelerime repolarımdan ayrıntılarıyla beraber ulaşabilirsiniz, Bu kısımda benim için önemli 2 projeyi göstermek istiyorum, Cub3D raycasting kullanarak yaptığım ilk oyun motorum, whisper of paperworld ise grubumla katıldığım ilk gamejam, Transcendence mezuniyet projem.*
-
+![Yeni Proje](https://github.com/user-attachments/assets/6cdfe43c-cbe3-4707-be45-ac5116a5d462)
 ### Cub 3D
 
 Github: https://github.com/ahkalama/Cub3D_Bonus_MyRayCasting
