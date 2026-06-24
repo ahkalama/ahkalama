@@ -1,16 +1,13 @@
 
 ![Yeni Proje](https://github.com/user-attachments/assets/abf75f93-c0e0-4a2f-831f-5aed6221b862)
 
-<table style="border: 0 !important; border-collapse: collapse; background: transparent; border-spacing: 0;">
-  <tr style="border: 0 !important; background: transparent;">
-    <td style="border: 0 !important; border-top: 0 !important; border-bottom: 0 !important; padding: 10px; vertical-align: top; background: transparent;">
-      <em>Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip bir Oyun Geliştiricisiyim. 5 senede evde yaptığım projeler; Unity'de oyun mekaniği, fizik ve render teknikleri konusunda, 42'de geliştirdiğim projeler ise problem çözme becerisi, algoritma geliştirme ve takım olarak proje geliştirme gibi çeşitli yönlerde beni geliştirdi, şu anda ise 42 Kocaeli'de ana eğitim öğrencisiyim. Yaptığım projelere repo'larımdan ulaşabilirsiniz.</em>
-    </td>
-    <td width="320" style="border: 0 !important; border-top: 0 !important; border-bottom: 0 !important; padding: 10px; vertical-align: top; background: transparent;">
-      <img src="https://media.tenor.com/tmWs_IT3d_wAAAAi/minecraft-transparent.gif" width="300" alt="Minecraft GIF">
-    </td>
-  </tr>
-</table>
+<p style="vertical-align: middle; display: flex; align-items: center;">
+  <img src="https://media.tenor.com/tmWs_IT3d_wAAAAi/minecraft-transparent.gif" align="right" width="300" alt="Minecraft GIF" style="vertical-align: middle; margin-left: 15px;">
+  
+  <em>Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip bir Oyun Geliştiricisiyim. 5 senede evde yaptığım projeler; Unity'de oyun mekaniği, fizik ve render teknikleri konusunda, 42'de geliştirdiğim projeler ise problem çözme becerisi, algoritma geliştirme ve takım olarak proje geliştirme gibi çeşitli yönlerde beni geliştirdi, şu anda ise 42 Kocaeli'de ana eğitim öğrencisiyim. Yaptığım projelere repo'larımdan ulaşabilirsiniz.</em>
+</p>
+
+<br clear="right"/>
 
 ## Yetenekler
 - **Oyun Motoru:** Unity, Unreal Engine
