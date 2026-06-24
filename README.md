@@ -1,13 +1,16 @@
 
 ![Yeni Proje](https://github.com/user-attachments/assets/abf75f93-c0e0-4a2f-831f-5aed6221b862)
 
-<img src="https://media.tenor.com/tmWs_IT3d_wAAAAi/minecraft-transparent.gif" align="right" width="300" alt="Minecraft GIF">
-
-*Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip bir Oyun Geliştiricisiyim. 5 senede evde yaptığım projeler; Unity'de oyun mekaniği, fizik ve render teknikleri konusunda, 42'de geliştirdiğim projeler ise problem çözme becerisi, algoritma geliştirme ve takım olarak proje geliştirme gibi çeşitli yönlerde beni geliştirdi, şu anda ise 42 Kocaeli'de ana eğitim öğrencisiyim. Yaptığım projelere repo'larımdan ulaşabilirsiniz.*
-
-<br clear="right"/>
-
-![Yeni Proje](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUya3RyZnNoeHp1Zmd4N2lrNThncmNvdWlqd3puZzc2dHEzamVlaTNvciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Nx4C51UKPqEpsYDz58/giphy.gif)
+<table border="0">
+  <tr>
+    <td>
+      <em>Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip bir Oyun Geliştiricisiyim. 5 senede evde yaptığım projeler; Unity'de oyun mekaniği, fizik ve render teknikleri konusunda, 42'de geliştirdiğim projeler ise problem çözme becerisi, algoritma geliştirme ve takım olarak proje geliştirme gibi çeşitli yönlerde beni geliştirdi, şu anda ise 42 Kocaeli'de ana eğitim öğrencisiyim. Yaptığım projelere repo'larımdan ulaşabilirsiniz.</em>
+    </td>
+    <td width="320">
+      <img src="https://media.tenor.com/tmWs_IT3d_wAAAAi/minecraft-transparent.gif" width="300" alt="Minecraft GIF">
+    </td>
+  </tr>
+</table>
 
 ## Yetenekler
 - **Oyun Motoru:** Unity, Unreal Engine
