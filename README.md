@@ -7,7 +7,7 @@
 
 <br clear="right"/>
 
-![Yeni Proje](https://cdna.artstation.com/p/assets/images/images/052/275/476/original/eggmations-64473c19-42ba-4a8c-b47c-fca0704751a6.gif?1659393308)
+![Yeni Proje](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUya3RyZnNoeHp1Zmd4N2lrNThncmNvdWlqd3puZzc2dHEzamVlaTNvciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Nx4C51UKPqEpsYDz58/giphy.gif)
 
 ## Yetenekler
 - **Oyun Motoru:** Unity, Unreal Engine
