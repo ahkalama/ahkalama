@@ -1,7 +1,11 @@
 
 ![Yeni Proje](https://github.com/user-attachments/assets/abf75f93-c0e0-4a2f-831f-5aed6221b862)
- *Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip bir Oyun Geliştiricisiyim.
-![Minecraft](https://media.tenor.com/tmWs_IT3d_wAAAAi/minecraft-transparent.gif) 5 senede evde yaptığım projeler; Unity' de oyun mekaniği, fizik ve render teknikleri konusunda, 42 de geliştirdiğim projeler ise problem çözme becerisi, algoritma geliştirme ve takım olarak proje geliştirme gibi çeşitli yönlerde beni geliştirdi, şu anda ise 42 Kocaeli 'de ana eğitim öğrencisiyim yaptığım projelere repo'larımdan ulaşabilirsiniz.*
+
+<img src="https://media.tenor.com/tmWs_IT3d_wAAAAi/minecraft-transparent.gif" align="right" width="300" alt="Minecraft GIF">
+
+*Merhaba! Ben Ahmet Mert Kalaman, Unity ve C# uzmanlığına sahip bir Oyun Geliştiricisiyim. 5 senede evde yaptığım projeler; Unity'de oyun mekaniği, fizik ve render teknikleri konusunda, 42'de geliştirdiğim projeler ise problem çözme becerisi, algoritma geliştirme ve takım olarak proje geliştirme gibi çeşitli yönlerde beni geliştirdi, şu anda ise 42 Kocaeli'de ana eğitim öğrencisiyim. Yaptığım projelere repo'larımdan ulaşabilirsiniz.*
+
+<br clear="right"/>
 
 
 ## Yetenekler
