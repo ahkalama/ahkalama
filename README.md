@@ -23,6 +23,8 @@
 
 *Bütün projelerime repolarımdan ayrıntılarıyla beraber ulaşabilirsiniz, Bu kısımda benim için önemli 2 projeyi göstermek istiyorum, Cub3D raycasting kullanarak yaptığım ilk oyun motorum, whisper of paperworld ise grubumla katıldığım ilk gamejam, Transcendence mezuniyet projem.*
 
+![Cute Dog](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ2OWNuYTF2ZHlmam1xcG16cmdkNWUxdXlzZXZkY2NkOHdyazc4cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1DogfMHafx1vlCqdSP/giphy.gif)
+
 ### Cub 3D
 
 Github: https://github.com/ahkalama/Cub3D_Bonus_MyRayCasting
@@ -37,7 +39,7 @@ Github: https://github.com/ahkalama/transcendence42finalproject
 
 ![iletisim](https://github.com/user-attachments/assets/c526dab2-714d-4a6c-919a-fffa8ce3e170)
 
-**Email:** luxmainim@gmail.com
+**Email:** ahkalama@woblix.com
 
 **LinkedIn:** https://www.linkedin.com/in/ahmet-mert-kalaman-56a579266/
 
