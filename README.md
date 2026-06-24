@@ -1,6 +1,6 @@
 
 ![Yeni Proje](https://github.com/user-attachments/assets/abf75f93-c0e0-4a2f-831f-5aed6221b862)
-![Minecraft](https://tenor.com/tr/view/minecraft-transparent-gif-13143101288113207292)
+![Minecraft](https://media.tenor.com/tmWs_IT3d_wAAAAi/minecraft-transparent.gif)
 
 ![Yeni Proje](https://github.com/user-attachments/assets/6cdfe43c-cbe3-4707-be45-ac5116a5d462)
 
